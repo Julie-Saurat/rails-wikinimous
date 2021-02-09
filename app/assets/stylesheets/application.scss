@@ -1,0 +1,15 @@
+@import "bootstrap/scss/bootstrap";
+
+body {
+  font-family: 'Rubik', sans-serif;
+}
+
+.navbar {
+  color: #5E5E5E;
+    .navbar-brand{
+      font-family: 'Rubik', sans-serif;
+      color: #5E5E5E;
+    }
+  border-radius: 5px;
+  border-bottom: 1px solid #ececec;
+}
